@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Ad] NVARCHAR(50) NULL, 
+    [Soyad] NVARCHAR(50) NULL, 
+    [No] NVARCHAR(50) NULL
+)
